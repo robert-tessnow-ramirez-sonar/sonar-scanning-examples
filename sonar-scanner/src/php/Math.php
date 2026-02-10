@@ -1,6 +1,6 @@
 <?php
 /**
- * This file is part of phpUnderControl.
+ * This file is part of phpUnderControl.df
  *
  * Copyright (c) 2007-2009, Manuel Pichler <mapi@phpundercontrol.org>.
  * All rights reserved.
