@@ -5,6 +5,7 @@ on:
     branches:
       - master
     paths:
+      - 'sonar-scanner/'
       - 'sonar-scanner/src/javascript'
       - 'sonar-scanner/src/php'
       - 'sonar-scanner/src/python'
