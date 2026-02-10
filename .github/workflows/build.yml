@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - main
     paths:
       - 'sonar-scanner/'
       - 'sonar-scanner/src/javascript'
