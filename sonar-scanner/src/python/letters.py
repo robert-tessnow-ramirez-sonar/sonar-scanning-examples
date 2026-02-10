@@ -18,7 +18,7 @@
 # AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-# THE SOFTWARE. hello world
+# THE SOFTWARE. hello world hello world
 
 import random, string
 
@@ -176,8 +176,7 @@ Sample transcript:
 # Play a single game
 play_once()
 raw_input("Press Return>")
-print "good
-print 'hello world
+
 # The solution to the bug-hunt is below...
 
 
