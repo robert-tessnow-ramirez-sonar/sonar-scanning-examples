@@ -4,7 +4,10 @@ on:
   push:
     branches:
       - master
-
+    paths:
+      - 'sonar-scanner/src/javascript'
+      - 'sonar-scanner/src/php'
+      - 'sonar-scanner/src/python'
   pull_request:
     types: [opened, synchronize, reopened]
 
