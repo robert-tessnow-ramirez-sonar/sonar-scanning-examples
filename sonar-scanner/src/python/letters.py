@@ -177,6 +177,7 @@ Sample transcript:
 play_once()
 raw_input("Press Return>")
 print "good
+print "good
 # The solution to the bug-hunt is below...
 
 
