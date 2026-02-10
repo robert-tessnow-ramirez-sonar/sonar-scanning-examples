@@ -12,8 +12,8 @@ on:
     types: [opened, synchronize, reopened]
 
 jobs:
-  sonarQubeScan1:
-    name: sonarQbeScan1
+  sonarQubeScanmonojavascript:
+    name: sonarQubeScanmonojavascript
     runs-on: ubuntu-latest
 
     steps:
@@ -28,8 +28,8 @@ jobs:
         with:
           projectBaseDir: sonar-scanner/src/javascript
 
-  sonarQubeScan2:
-    name: sonarQbeScan2
+  sonarQubeScanmonophp:
+    name: sonarQubeScanmonophp
     runs-on: ubuntu-latest
 
     steps:
@@ -44,8 +44,8 @@ jobs:
         with:
           projectBaseDir: sonar-scanner/src/php
 
-  sonarQubeScan3:
-    name: sonarQbeScan3
+  sonarQubeScanmonopython:
+    name: sonarQubeScanmonopython
     runs-on: ubuntu-latest
 
     steps:
