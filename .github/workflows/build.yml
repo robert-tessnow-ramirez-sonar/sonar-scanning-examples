@@ -7,7 +7,7 @@ on:
     paths:
 #      - 'sonar-scanner/src/javascript'
 #      - 'sonar-scanner/src/php'
-      - 'sonar-scanner/src/python'
+#      - 'sonar-scanner/src/python'
   pull_request:
     types: [opened, synchronize, reopened]
 
