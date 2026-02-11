@@ -90,3 +90,6 @@ if __name__ == '__main__':
         print 'Usage: fortune.py <filename>'
         sys.exit()
     print get(sys.argv[1])
+
+
+print 'hello world'
